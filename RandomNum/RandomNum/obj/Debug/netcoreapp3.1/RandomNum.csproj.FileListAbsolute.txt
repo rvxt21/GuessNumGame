@@ -1,0 +1,14 @@
+C:\Users\anast\source\repos\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.exe
+C:\Users\anast\source\repos\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.deps.json
+C:\Users\anast\source\repos\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.runtimeconfig.json
+C:\Users\anast\source\repos\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.runtimeconfig.dev.json
+C:\Users\anast\source\repos\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.dll
+C:\Users\anast\source\repos\RandomNum\RandomNum\bin\Debug\netcoreapp3.1\RandomNum.pdb
+C:\Users\anast\source\repos\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.AssemblyInfo.cs
+C:\Users\anast\source\repos\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.dll
+C:\Users\anast\source\repos\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.pdb
+C:\Users\anast\source\repos\RandomNum\RandomNum\obj\Debug\netcoreapp3.1\RandomNum.genruntimeconfig.cache
